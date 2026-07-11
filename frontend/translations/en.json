@@ -1,0 +1,17 @@
+{
+  "welcome_message": "Welcome to Smart Hostel",
+  "current_status": "Current Status",
+  "hostel": "Hostel",
+  "room": "Room",
+  "submit_request": "Submit Request",
+  "leave_history": "Leave History",
+  "no_leave_requests": "No leave requests found",
+  "personal_info": "Personal Information",
+  "parent_info": "Parent/Guardian",
+  "hostel_info": "Hostel Information",
+  "logout": "Logout",
+  "notifications": "Notifications",
+  "close": "Close",
+  "request_submitted": "Request Submitted Successfully",
+  "your_leave_sent": "Your leave request has been sent to your parent/guardian for approval"
+}
